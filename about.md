@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Latmos Apps neler yapıyor?
 permalink: /about/
 ---
 
-Some information about you!
+Latmos Apps minimal, işlevsel ve keyifli mobil ve web uygulamaları geliştirmektedir.
 
-### More Information
+Bunun dışında Latmos Apps işletmelerin süreçlerini optimize etmek, iyileştirmek, görevleri otomatikleştirmek veya belirli sorunları çözmek için yenilikçi ve kullanıcı dostu uygulamalar geliştirme hizmeti de vermektedir.
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[latmosapps@gmail.com](mailto:latmosapps@gmail.com)
