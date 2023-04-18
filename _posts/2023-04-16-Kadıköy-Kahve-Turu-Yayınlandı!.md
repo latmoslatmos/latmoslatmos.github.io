@@ -5,8 +5,7 @@ title: Kadıköy Kahve Turu Yayınladı!
 
 Flutter ile geliştirdiğimiz mobil uygulalamız Google Play'de yayınlandı. 'Kadıköy Kahve Turu', İstanbul'un en popüler ilçelerinden biri olan Kadıköy'de farklı mekanlar, farklı tatlar denemek isteyenlerin kullanabileceği, basit ve keyifli bir uygulama. 
 
-
-
+Uygulamayı [Google Play / Kadıköy Kahve Turu](https://play.google.com/store/apps/details?id=com.latmosapps.kadikoy_kahve_turu&pli=1) adresinden indirip, kullanabilirsiniz.
 
 Uygulamayı; diğer projelerin durumu ve gelen ilgili istatistik verilerine göre, kısa veya biraz daha uzun bir dönem içinde, Apple Store'da yayınlamayı da planlıyoruz.
 
