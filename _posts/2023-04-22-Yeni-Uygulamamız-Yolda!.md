@@ -1,21 +1,15 @@
 ---
 layout: post
-title: Yeni uygulama çalışmaları başladı!
+title: Stoic Motivation yayınlandı!
 ---
 
->> Güncelleme 23.05.2023 >> 
-Çalışmamızda son testlere başladık. Uygulamayı çok yakında yayınlamayı planlıyoruz. 
+> **Son Güncelleme Tarihi:28.07.2023**
 
+![_config.yml]({{ site.baseurl }}/images/stoicMotivation.png)
 
-Motivasyon konulu yeni mobil uygulamamız için çalışmalara başladık. 
+Yeni mobil uygulalamız Stoic Motivation, Google Play'de yayınlandı. Stoacı filozofların düşüncelerini bulabileceğiniz uygulamamızı,
+[Google Play / Stoic Motivation](https://play.google.com/store/apps/details?id=com.latmosapps.stoic_motivation&pli=1) adresinden indirip, kullanabilirsiniz.
 
-Çalışmalarımız şu sıra ile devam edecek. 
+Bu uygulamamızı daha sonra App Store'da da yayınlamayı planlıyoruz. 
 
-	- Pazar araştırması.
-	- Tasarım.
-	- İçerik oluşturulması.
-	- Uygulamanın yazılması.
-	- Testler.
-	- Yayına alma.
-
-Yoğun bir çalışma süreci bizi bekliyor. Görüşmek üzere...
+Sonraki projelerde görüşmek üzere. 
