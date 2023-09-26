@@ -13,5 +13,7 @@ Our apps in the store;
 
 - Excel VBA Team Task Management App. Designed for small, medium-sized companies and families. With this application you can assign tasks to employees, teams or family members and keep track of them. [Excel VBA Team Task Management App](https://latmosapps.etsy.com/listing/1537920474/excel-vba-team-task-management-app?utm_source=Copy&utm_medium=ListingManager&utm_campaign=Share&utm_term=so.lmsm&share_time=1694258685928)
 
+- Excel VBA Employee Attendance Tracking App. Designed for small, medium-sized companies and families. With this application you can track and analyse the attendance of the employees. [Excel VBA Attendance App](https://latmosapps.etsy.com/listing/1549901840/excel-vba-employee-attendance-app)
+
 You can watch promotional videos about our Excel VBA products on our YouTube channel. [Latmos Apps Youtube Channel](https://www.youtube.com/@LatmosApps)
 You can visit our Etsy store and have a look at our products.  [LatmosApps Etsy](https://latmosapps.etsy.com).
